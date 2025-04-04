@@ -1,0 +1,104 @@
+*{margin: 0;
+ font-family: Arial, Helvetica, sans-serif;
+ border:border-box
+}
+.navbar{height: 60px;
+ background-color: #0f1111;
+color: white;
+display: flex;
+justify-content: space-evenly;
+}
+.nav-logo{height: 55px;width: 100px;}
+.logo{
+    background-image: url(Amazon-Logo.jpg);
+    height: 55px;
+        width: 100%;
+    background-size:cover ;
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:2px solid white
+}
+/**box2**/
+.nav-addr{ border:2px solid transparent;
+}
+.nav-addr:hover{border: 2px solid white;
+}
+.Deliever{font-size: 0.75rem;
+color: #cccccc;
+margin-left: 13px;margin-top: 5px;}
+.country{font-size: 1rem;margin-left: 2px;
+margin-top: px;}
+.add-icon{display: flex;align-items: center;}
+/**box3**/
+.nav-search{margin: 10px 0 10px 5px;
+display: flex;height: 40px;width: 600px;background-color: orange;
+border-radius: 6px;
+}
+.nav-search:hover{border: 1px solid orange;}
+.search-select{background-color: #F3F3F3;
+border-radius: 6px 0 0 6px;
+text-align: center ;
+width: 50px;}
+.search-input{width: 500px;}
+.search-icon{justify-content: center;
+ display: flex;width: 45px;
+align-items: center;color: black;}
+span{
+    font-size: 0.75rem;
+}
+.nav-sec{font-size: 0.85rem;font-weight: 700;}
+.nav-sign{padding-top:5px ; border:2px solid transparent;align-items: center;
+}
+.nav-sign:hover{border: 2px solid white;}
+.nav-return{align-items: center; border: 2px solid transparent;padding-top: 5px;}
+.nav-return:hover{border: 2px solid white;}
+.nav-cart{margi;
+border: 2px solid transparent;padding-top: 15px;}
+.nav-cart i{ font-size: 25px;}
+.nav-cart:hover{border: 2px solid white;}
+.panel{color: white;height:25px;justify-content: space-evenly;}
+.panel-opts{width: 70%;}
+.panel{display:flex; background-color:#37435a;}
+.panel-opts p{display: inline;font-size: 0.85rem;margin-left: 10px;}
+.panel-deals{font-size: 0.85rem;margin-top: 3px;}
+.panel-all{text-align: left;}
+.hero{background-image: url(hero.jpg);background-size: cover;height: 600px;}
+.hero-msg{text-align: center;align-items: center;background-color: #F3F3F3;color: black;height: 20px ;font-size: 0.85rem;justify-content: center;position: relative; top: 280px;}
+.hero-msg a{color:skyblue;}
+.box{height: 230px;border: 2px solid black;width: 20%;position: relative;top: 280px;background-color: #F3F3F3;}
+.shop-section{display: flex;justify-content: space-evenly ;flex-wrap: wrap;}
+.box-image1{background-image: url(2nd\ left.jpg);background-size: cover;height: 180px;}
+.box-image2{background-image: url(2nd\ r.jpg);background-size: cover;height: 180px;}
+.box-image3{background-image: url(2nd\ r2.jpg);background-size: cover;height: 180px;}
+.box-image4{background-image: url(1st\ right.jpg);background-size: cover;height: 180px;}
+.box-image5{background-image: url(laptops.jpg);background-size: cover;height: 180px;}
+.box-image6{background-image: url(alexa.jpg);background-size: cover;height: 180px;}
+.box-image7{background-image: url(mobile.jpg);background-size: cover;height: 180px;}
+.box-image8{background-image: url(headphone.jpg);background-size: cover;height: 180px;}
+.box-image9{background-image: url(suitcases.jpg);background-size: cover;height: 180px;}
+.box-image10{background-image: url(home\ decor.jpg);background-size: cover;height: 180px;}
+.box-image11{background-image: url(2nd\ l3.jpg);background-size: cover;height: 180px;}
+.box-image12{background-image: url(desktops.jpg);background-size: cover;height: 180px;}
+.box-content{margin: 5px ;}
+.box5{margin-top: 15px;}
+.box6{margin-top: 15px;}
+.box7{margin-top: 15px;}
+.box8{margin-top: 15px;}
+.box9{margin-top: 15px;}
+.box10{margin-top: 15px;}
+.box11{margin-top: 15px;}
+.box12{margin-top: 15px;}
+body{background-color: #d3d1d19c;}
+.back{background-color:#37435a;color: white;text-align: center;}
+.panelend{position: relative;top: 500px;line-height: 40px;}
+.ending{background-color: #222F3d;position: relative;top: 500px;color: white;height: 300px;display: flex;justify-content: space-evenly;}
+ul a{display: block;margin-top: 5px;font-size: small;}
+.b{margin-top: 50px;font-size: 23px;font-family: Arial, Helvetica, sans-serif;}
+.panel3{background-color: #222F3d;position: relative;top: 500px;height: 60px;border-top:2px solid white;align-items: center;justify-content: center;display: flex;}
+   .plogo {background-image: url(Amazon-Logo.jpg);
+    height: 50px;
+        width: 100px;
+    background-size: cover;}
