@@ -1,2 +1,2 @@
 # amazon-project
-My self mad Amazon project
+My self mad Amazon clone project
